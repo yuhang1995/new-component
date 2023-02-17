@@ -1,7 +1,7 @@
-import * as React from 'react';
+import * as React from 'react'
 
 function COMPONENT_NAME() {
-  return <div></div>;
+  return <div></div>
 }
 
 export default COMPONENT_NAME;
